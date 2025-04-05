@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "루모 Root Moment",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
+    role: "game blogger",
+    bio: "A pile of shame, sorted weekly. 게이머가 죽으면 지옥에서 사놓고 안한 게임들을 전부 깨야 한다는 얘기가 있다. 나는 이 이야기를 무척 좋아한다.",
     email: "morethanmin.dev@gmail.com",
     linkedin: "morethanmin",
     github: "morethanmin",
